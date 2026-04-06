@@ -1,1 +1,1 @@
-not merge problem.txt
+merge problem.txt
